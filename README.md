@@ -1,1 +1,1 @@
-# Weather_forecasting
+Weather Forecasting project is coded in the Python programming language. The project contains simple coding scripts that can monitor the weather status of a certain city. Weather Forecast App in Python is an application that helps you identify the weather conditions you will be facing. Weather Forecast App provides a better understanding of development for the Python programming languag
